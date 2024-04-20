@@ -8,7 +8,7 @@ const readCSV = require('./csvReader');
 //     // Logic for INNER JOIN
 //     // ...
 // }
-
+ 
 // function performLeftJoin(/* parameters */) {
 //     // Logic for LEFT JOIN
 //     // ...
